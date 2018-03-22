@@ -1,0 +1,6 @@
+*.dll
+*.pyc
+*~
+*.log
+*.png
+*.ahk
